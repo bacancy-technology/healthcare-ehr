@@ -1,45 +1,46 @@
-# [PRODUCT NAME] by Bacancy
+# Bacancy EHR
 
 
-**[ONE-LINE PROMISE: what it does for a clinic owner, in under 15 words.]**
+An electronic health record (EHR) for clinics that runs scheduling, prescriptions, telehealth and lab orders in one place.
 
 
-[**Book a demo**](https://www.bacancytechnology.com/contactus?utm_source=github&utm_medium=readme&utm_campaign=[product]&utm_content=demo-top) · [**See pricing**](docs/pricing.md) · [**Full documentation**](https://bacancy-technology.github.io/healthcare-docs)
+[**Book a demo**](https://www.bacancytechnology.com/contactus?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=demo-top) · [**See pricing**](docs/pricing.md) · [**Full documentation**](https://bacancy-technology.github.io/healthcare-docs/products/ehr)
 
 
-![[PRODUCT NAME] main screen with demo data](media/screenshots/hero.png)
-[Caption: what this screen shows.] All data is synthetic.
+![Bacancy EHR dashboard with demo patient data](media/screenshots/hero.png)
+The clinic dashboard, showing the day's appointments. All data is synthetic.
 
 
 ## What it does
-[2 to 4 sentences: who uses it, what problem it removes, what changes for the practice.]
+Bacancy EHR keeps the full patient record in one system, from the first booking to the lab result. Front desk staff, clinicians and pharmacists work from the same chart. It connects to labs, pharmacies and other EHRs through FHIR R4 and HL7 standards.
 
 
 ## 5 key features
-**[Feature]:** [one-line benefit]
-**[Feature]:** [one-line benefit]
-**[Feature]:** [one-line benefit]
-**[Feature]:** [one-line benefit]
-**[Feature]:** [one-line benefit]
-[See all features](docs/features.md)
-
-
+**Patient Scheduling:** book, reschedule and track appointments across providers and locations.
+**E-Prescriptions:** write and send prescriptions to the pharmacy from the chart.
+**Teleconsultation:** run video visits and record them in the same patient record.
+**Remote Patient Monitoring (RPM):** see readings from connected devices next to the chart.
+**Lab and Pharmacy Integration:** send orders and receive results without re-typing.
 ## Who it is for
-[Role or organization type 1]
-[Role or organization type 2]
-[Role or organization type 3]
+Clinic owners and practice managers
+Physicians, nurses and front desk teams
+Health IT teams that need FHIR R4 and HL7 integration
 ## Pricing
-[One-line summary.] Full details in [docs/pricing.md](docs/pricing.md).
+Plans are priced by [FILL: providers / locations / modules]. Full details in [docs/pricing.md](docs/pricing.md).
 
 
 ## Screenshots
 | Screen | What it shows |
 |---|---|
-| ![[alt text]](media/screenshots/[file].png) | [caption] |
+| ![Appointment calendar with demo data](media/screenshots/scheduling.png) | Appointment calendar |
+| ![Prescription screen with demo data](media/screenshots/e-prescription.png) | E-prescription screen |
+| ![Video visit screen with demo data](media/screenshots/teleconsultation.png) | Teleconsultation |
+| ![RPM readings with demo data](media/screenshots/rpm.png) | Remote monitoring readings |
+| ![Lab results with demo data](media/screenshots/lab-results.png) | Lab results in the chart |
 
 
 ## Integrations
-[One line.] See [docs/integrations.md](docs/integrations.md).
+FHIR R4, HL7, Epic, Cerner, labs and pharmacies. See [docs/integrations.md](docs/integrations.md).
 
 
 ## Security and compliance
@@ -54,7 +55,6 @@ Built to support HIPAA compliance. Bacancy Technology is certified to ISO/IEC 27
 [Security and compliance](docs/security-and-compliance.md)
 [Pricing](docs/pricing.md)
 [FAQ](docs/faq.md)
-[Videos](media/videos.md)
 ## How to cite
 Use **Cite this repository** in the sidebar.
 
@@ -63,7 +63,7 @@ Use **Cite this repository** in the sidebar.
 Bacancy Technology is an AI-powered consulting and software development company for AI, Data, Healthcare, and Finance enterprises. Since 2011, Bacancy has been trusted by 500+ enterprises across 30+ countries, with a 98% client retention rate. It has offices across the US, UK, India, and Australia.
 
 
-[**Book a demo**](https://www.bacancytechnology.com/contactus?utm_source=github&utm_medium=readme&utm_campaign=[product]&utm_content=demo-bottom) · [**See pricing**](docs/pricing.md)
+[**Book a demo**](https://www.bacancytechnology.com/contactus?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=demo-bottom) · [**EHR development services**](https://www.bacancytechnology.com/healthcare/ehr-development?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=services)
 
 
 ---
