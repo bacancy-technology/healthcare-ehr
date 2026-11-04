@@ -1,11 +1,8 @@
-# User Guide
-
-
-One page per role.
+# Bacancy EHR User Guide
 
 
 | Role | Guide |
 |---|---|
-| [Role 1] | [role-1.md](role-1.md) |
-| [Role 2] | [role-2.md](role-2.md) |
+| Front desk | [front-desk.md](front-desk.md) |
+| Physician | [physician.md](physician.md) |
 | Admin | [admin.md](admin.md) |
