@@ -1,27 +1,30 @@
-# [PRODUCT NAME] Overview
+# Bacancy EHR Overview
 
 
- Keep this page under 500 words.
 ## The problem
-[2 to 3 sentences on the daily problem the practice faces.]
+Many clinics run scheduling, prescriptions, video visits and lab orders in separate tools. Staff re-type the same patient details several times a day. Each re-typed field is a chance for an error.
 
 
-## What [PRODUCT NAME] does
-[2 to 3 sentences on how the product solves it.]
+## What Bacancy EHR does
+Bacancy EHR puts these workflows in one patient record. A booking creates the chart. The clinician prescribes, consults and orders labs from that chart. Results come back to the same place.
 
 
 ## Who uses it
-| Role | What they do in [PRODUCT NAME] |
+| Role | What they do in Bacancy EHR |
 |---|---|
-| [Role] | [task] |
-| [Role] | [task] |
+| Front desk | Book appointments, register patients, check in visits |
+| Physician | Review the chart, consult in person or by video, prescribe, order labs |
+| Nurse | Record vitals, review RPM readings, prepare visits |
+| Pharmacist | Receive e-prescriptions |
+| Practice manager | View schedules, users and reports |
+| Admin | Set up users, roles and integrations |
 
 
 ## What changes for the practice
-[Outcome 1. Use a number only if it is verified.]
-[Outcome 2]
-[Outcome 3]
+One patient record instead of several disconnected tools
+Less re-typing between the front desk, clinicians, labs and pharmacies
+Standards-based data exchange through FHIR R4 and HL7
 ## Next steps
 [See all features](features.md)
 [See pricing](pricing.md)
-[Book a demo](https://www.bacancytechnology.com/contactus?utm_source=github&utm_medium=readme&utm_campaign=[product]&utm_content=demo-overview)
+[Book a demo](https://www.bacancytechnology.com/contactus?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=demo-overview)
