@@ -1,9 +1,7 @@
 # Front Desk Guide
 
-
 ## What you do in Bacancy EHR
 Book appointments, register new patients and check patients in.
-
 
 ## Book an appointment
 1. Open **Schedule**.
@@ -12,7 +10,6 @@ Book appointments, register new patients and check patients in.
 4. Search for the patient, or click **New patient**.
 5. Choose the visit type: in person or teleconsultation.
 6. Click **Save**.
-
 
 ## Check a patient in
 1. Open **Schedule** and find today's appointment.
