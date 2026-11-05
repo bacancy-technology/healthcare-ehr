@@ -2,7 +2,7 @@
 
 
  Reviewed by the compliance team. Do not edit without their approval.
-[PRODUCT NAME] is built to support HIPAA (Health Insurance Portability and Accountability Act) compliance.
+ Bacancy EHR is built to support HIPAA (Health Insurance Portability and Accountability Act) compliance.
 
 
 ## Company certification
