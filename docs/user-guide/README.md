@@ -1,6 +1,5 @@
 # Bacancy EHR User Guide
 
-
 | Role | Guide |
 |---|---|
 | Front desk | [front-desk.md](front-desk.md) |
