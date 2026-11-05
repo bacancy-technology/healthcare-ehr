@@ -1,29 +1,25 @@
-# Bacancy EHR FAQ
+# Bacancy EHR Technical FAQ
 
+## Which FHIR version does Bacancy EHR support?
+FHIR R4. See [integrations](integrations.md).
 
-## What is Bacancy EHR?
-Bacancy EHR is an electronic health record for clinics. It covers scheduling, e-prescriptions, teleconsultation, remote patient monitoring, and lab and pharmacy integration in one patient record.
+## Which FHIR resources are supported?
+Patient, Practitioner, Encounter, Observation and MedicationRequest. [FILL: add others]
 
+## Does it support HL7 v2?
+[FILL: yes/no, and which message types, e.g. ADT, ORM, ORU]
 
-## How does an EHR connect to Epic with FHIR?
-Epic exposes patient and clinical data through FHIR R4 APIs. Bacancy EHR reads and writes the same FHIR resources, such as Patient, Encounter and Observation, after the clinic approves the connection. See [integrations](integrations.md).
+## How does it connect to Epic?
+Through Epic's FHIR R4 APIs, after the clinic approves the app connection. [FILL: confirm]
 
+## Does it work with Oracle Health (Cerner)?
+[FILL: confirm status.] Oracle Health also offers FHIR R4 APIs, and the connection follows the same steps as Epic.
 
-## Does Bacancy EHR work with Cerner?
-[FILL: confirm status.] Oracle Health (Cerner) also offers FHIR R4 APIs, and the connection follows the same steps as Epic.
-
-
-## Is Bacancy EHR HIPAA compliant?
+## Is it HIPAA compliant?
 Bacancy EHR is built to support HIPAA compliance. Bacancy Technology is certified to ISO/IEC 27001:2022. See [security and compliance](security-and-compliance.md).
 
+## Is there test data I can use?
+Yes. Synthetic FHIR R4 data is in [healthcare-fhir-samples](https://github.com/bacancy-technology/healthcare-fhir-samples).
 
-## Can patients see a doctor by video?
-Yes. Teleconsultation runs inside Bacancy EHR, and visit notes are saved to the same chart.
-
-
-## How much does Bacancy EHR cost?
-See [pricing](pricing.md), or [ask for a quote](https://www.bacancytechnology.com/contactus?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=faq).
-
-
-## Can Bacancy customize the EHR for my clinic?
-Yes. Bacancy Technology also builds custom EHR software. See [EHR development services](https://www.bacancytechnology.com/healthcare/ehr-development?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=faq).
+## Where are pricing and demos?
+On the product page: [bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=faq)
