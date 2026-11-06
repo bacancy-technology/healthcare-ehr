@@ -14,6 +14,8 @@ Integration guides, portal guides and compliance details for BacancyCare EHR, a 
 | Standards | FHIR R4 (USCDI v3), HL7v2, REST APIs |
 | Deployment | Your own servers or a private cloud in your name |
 | Typical go-live | 2–4 weeks for a single clinic |
+| Pricing | $10k–$40k one-time license, or $150–$400 per doctor per month. [Details](docs/pricing.md) |
+
 
 ## What's in this repo
 | Page | What you'll find |
@@ -25,6 +27,8 @@ Integration guides, portal guides and compliance details for BacancyCare EHR, a 
 | [Technical FAQ](docs/faq.md) | Integration, data and deployment questions |
 | [Videos](media/videos.md) | Demo videos |
 | [Changelog](CHANGELOG.md) | Documentation versions |
+| [Pricing](docs/pricing.md) | License and subscription options, guarantee, support |
+
 
 ## For developers
 Free synthetic FHIR R4 test data: [healthcare-fhir-samples](https://github.com/bacancy-technology/healthcare-fhir-samples)
