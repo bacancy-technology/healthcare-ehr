@@ -30,9 +30,6 @@ Integration guides, portal guides and compliance details for BacancyCare EHR, a 
 | [Pricing](docs/pricing.md) | License and subscription options, guarantee, support |
 
 
-## For developers
-Free synthetic FHIR R4 test data: [healthcare-fhir-samples](https://github.com/bacancy-technology/healthcare-fhir-samples)
-
 ## How to cite
 Use **Cite this repository** in the sidebar.
 
