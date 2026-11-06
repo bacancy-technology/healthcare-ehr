@@ -1,7 +1,11 @@
-# Bacancy EHR User Guide
+# BacancyCare EHR User Guides
 
-| Role | Guide |
+One guide per portal.
+
+| Portal | Guide |
 |---|---|
-| Front desk | [front-desk.md](front-desk.md) |
-| Physician | [physician.md](physician.md) |
-| Admin | [admin.md](admin.md) |
+| Patient Portal | [patient.md](patient.md) |
+| Doctor Portal | [doctor.md](doctor.md) |
+| Laboratory Portal | [laboratory.md](laboratory.md) |
+| Pharmacy Portal | [pharmacy.md](pharmacy.md) |
+| Super Admin Panel | [super-admin.md](super-admin.md) |
