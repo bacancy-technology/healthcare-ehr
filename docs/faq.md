@@ -24,9 +24,6 @@ The AI layer is model-agnostic, so the language model can be changed without reb
 ## What happens to our data if we stop using it?
 You keep your data, because it runs on your servers.
 
-## Is there test data I can use?
-Yes. Synthetic FHIR R4 data is in [healthcare-fhir-samples](https://github.com/bacancy-technology/healthcare-fhir-samples).
-
 ## How much does BacancyCare EHR cost?
 A one-time license costs $10,000 to $40,000, or you can subscribe for $150 to $400 per doctor per month. There's a full refund within 3 months. See [pricing](pricing.md) for details, or [get a written quote](https://bacancycare.com/#form).
 
