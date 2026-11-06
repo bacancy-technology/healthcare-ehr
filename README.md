@@ -1,24 +1,30 @@
-# Bacancy EHR: Technical Documentation
+# BacancyCare EHR: Technical Documentation
 
-Integration guides, user guides and FHIR R4 details for Bacancy EHR.
+Integration guides, portal guides and compliance details for BacancyCare EHR, a self-hosted EHR that connects patients, doctors, labs and pharmacies in one system.
 
-**Product page, pricing and demo:** [bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=product-top)
+**Product page and demo:** [bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=product-top) · **Live demo:** [healthsolution.gobacancy.com](https://healthsolution.gobacancy.com/)
 
-![Bacancy EHR dashboard with demo data](media/screenshots/hero.png)
+![BacancyCare EHR doctor dashboard with demo data](media/screenshots/hero.png)
+
+## At a glance
+| | |
+|---|---|
+| Portals | 5: Patient, Doctor, Laboratory, Pharmacy, Super Admin |
+| AI capabilities | 7, including symptom check, AI receptionist and visit transcripts |
+| Standards | FHIR R4 (USCDI v3), HL7v2, REST APIs |
+| Deployment | Your own servers or a private cloud in your name |
+| Typical go-live | 2–4 weeks for a single clinic |
 
 ## What's in this repo
 | Page | What you'll find |
 |---|---|
-| [Overview](docs/overview.md) | What Bacancy EHR covers and who uses it |
-| [Integrations](docs/integrations.md) | FHIR R4, HL7 v2, Epic, Oracle Health (Cerner), labs, pharmacies |
-| [User guides](docs/user-guide/README.md) | Step-by-step guides for front desk, physicians and admins |
-| [Security and compliance](docs/security-and-compliance.md) | HIPAA support, ISO/IEC 27001:2022 |
-| [Technical FAQ](docs/faq.md) | Integration and data questions |
-| [Videos](media/videos.md) | Demo and how-to videos |
+| [Overview](docs/overview.md) | Portals, AI capabilities and who uses each one |
+| [Integrations](docs/integrations.md) | FHIR, HL7v2, Epic, Oracle Health, clearinghouses, e-prescribing |
+| [User guides](docs/user-guide/README.md) | One guide per portal |
+| [Security and compliance](docs/security-and-compliance.md) | HIPAA, encryption, audit logs, BAA |
+| [Technical FAQ](docs/faq.md) | Integration, data and deployment questions |
+| [Videos](media/videos.md) | Demo videos |
 | [Changelog](CHANGELOG.md) | Documentation versions |
-
-## Standards supported
-FHIR R4 · HL7 v2 · SMART on FHIR · LOINC · SNOMED CT · RxNorm
 
 ## For developers
 Free synthetic FHIR R4 test data: [healthcare-fhir-samples](https://github.com/bacancy-technology/healthcare-fhir-samples)
@@ -26,9 +32,8 @@ Free synthetic FHIR R4 test data: [healthcare-fhir-samples](https://github.com/b
 ## How to cite
 Use **Cite this repository** in the sidebar.
 
-## Product details and pricing
-Features, pricing and demos are on the official product page:
-**[bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=product-bottom)**
+## Product details, pricing and demo
+**[bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=product-bottom)** · Questions: solutions@bacancy.com
 
 ---
-Documentation licensed under CC BY 4.0. Code samples in `samples/` licensed under Apache 2.0. Bacancy and Bacancy EHR are trademarks of Bacancy Technology. All screenshots use demo data.
+Documentation licensed under CC BY 4.0. Code samples in `samples/` licensed under Apache 2.0. BacancyCare is a product of Bacancy Technology. All screenshots use demo data.
