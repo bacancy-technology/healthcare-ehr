@@ -1,70 +1,43 @@
-# [PRODUCT NAME] by Bacancy
+# BacancyCare EHR: Technical Documentation
 
+Integration guides, portal guides and compliance details for BacancyCare EHR, a self-hosted EHR that connects patients, doctors, labs and pharmacies in one system.
 
-**[ONE-LINE PROMISE: what it does for a clinic owner, in under 15 words.]**
+**Product page and demo:** [bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=product-top) · **Live demo:** [healthsolution.gobacancy.com](https://healthsolution.gobacancy.com/)
 
+![BacancyCare EHR doctor dashboard with demo data](media/screenshots/hero.png)
 
-[**Book a demo**](https://www.bacancytechnology.com/contactus?utm_source=github&utm_medium=readme&utm_campaign=[product]&utm_content=demo-top) · [**See pricing**](docs/pricing.md) · [**Full documentation**](https://bacancy-technology.github.io/healthcare-docs)
-
-
-![[PRODUCT NAME] main screen with demo data](media/screenshots/hero.png)
-[Caption: what this screen shows.] All data is synthetic.
-
-
-## What it does
-[2 to 4 sentences: who uses it, what problem it removes, what changes for the practice.]
-
-
-## 5 key features
-**[Feature]:** [one-line benefit]
-**[Feature]:** [one-line benefit]
-**[Feature]:** [one-line benefit]
-**[Feature]:** [one-line benefit]
-**[Feature]:** [one-line benefit]
-[See all features](docs/features.md)
-
-
-## Who it is for
-[Role or organization type 1]
-[Role or organization type 2]
-[Role or organization type 3]
-## Pricing
-[One-line summary.] Full details in [docs/pricing.md](docs/pricing.md).
-
-
-## Screenshots
-| Screen | What it shows |
+## At a glance
+| | |
 |---|---|
-| ![[alt text]](media/screenshots/[file].png) | [caption] |
+| Portals | 5: Patient, Doctor, Laboratory, Pharmacy, Super Admin |
+| AI capabilities | 7, including symptom check, AI receptionist and visit transcripts |
+| Standards | FHIR R4 (USCDI v3), HL7v2, REST APIs |
+| Deployment | Your own servers or a private cloud in your name |
+| Typical go-live | 2–4 weeks for a single clinic |
+| Pricing | $10k–$40k one-time license, or $150–$400 per doctor per month. [Details](docs/pricing.md) |
 
 
-## Integrations
-[One line.] See [docs/integrations.md](docs/integrations.md).
+## What's in this repo
+| Page | What you'll find |
+|---|---|
+| [Overview](docs/overview.md) | Portals, AI capabilities and who uses each one |
+| [Integrations](docs/integrations.md) | FHIR, HL7v2, Epic, Oracle Health, clearinghouses, e-prescribing |
+| [User guides](docs/user-guide/README.md) | One guide per portal |
+| [Security and compliance](docs/security-and-compliance.md) | HIPAA, encryption, audit logs, BAA |
+| [Technical FAQ](docs/faq.md) | Integration, data and deployment questions |
+| [Videos](media/videos.md) | Demo videos |
+| [Changelog](CHANGELOG.md) | Documentation versions |
+| [Pricing](docs/pricing.md) | License and subscription options, guarantee, support |
 
 
-## Security and compliance
-Built to support HIPAA compliance. Bacancy Technology is certified to ISO/IEC 27001:2022. See [docs/security-and-compliance.md](docs/security-and-compliance.md).
+## For developers
+Free synthetic FHIR R4 test data: [healthcare-fhir-samples](https://github.com/bacancy-technology/healthcare-fhir-samples)
 
-
-## Documentation
-[Overview](docs/overview.md)
-[Features](docs/features.md)
-[User guide](docs/user-guide/README.md)
-[Integrations](docs/integrations.md)
-[Security and compliance](docs/security-and-compliance.md)
-[Pricing](docs/pricing.md)
-[FAQ](docs/faq.md)
-[Videos](media/videos.md)
 ## How to cite
 Use **Cite this repository** in the sidebar.
 
-
-## About Bacancy Technology
-Bacancy Technology is an AI-powered consulting and software development company for AI, Data, Healthcare, and Finance enterprises. Since 2011, Bacancy has been trusted by 500+ enterprises across 30+ countries, with a 98% client retention rate. It has offices across the US, UK, India, and Australia.
-
-
-[**Book a demo**](https://www.bacancytechnology.com/contactus?utm_source=github&utm_medium=readme&utm_campaign=[product]&utm_content=demo-bottom) · [**See pricing**](docs/pricing.md)
-
+## Product details, pricing and demo
+**[bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=product-bottom)** · Questions: solutions@bacancy.com
 
 ---
-Documentation licensed under CC BY 4.0. Code samples in samples/ licensed under Apache 2.0. Logos and product names are trademarks of Bacancy Technology.
+Documentation licensed under CC BY 4.0. Code samples in `samples/` licensed under Apache 2.0. BacancyCare is a product of Bacancy Technology. All screenshots use demo data.

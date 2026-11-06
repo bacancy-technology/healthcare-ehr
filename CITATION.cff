@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you reference this product, please cite it as below."
-title: "Bacancy Healthcare Product Template: Product Documentation"
+title: "BacancyCare EHR: Technical Documentation"
 authors:
   - name: "Bacancy Technology"
 version: 1.0.0
-date-released: 2026-11-04
-url: "https://www.bacancytechnology.com/healthcare"
-repository-code: "https://github.com/bacancy-technology/healthcare-product-template"
+date-released: 2026-11-06
+url: "https://bacancycare.com/ehr"
+repository-code: "https://github.com/bacancy-technology/healthcare-ehr"
 license: CC-BY-4.0

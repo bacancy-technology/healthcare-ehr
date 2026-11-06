@@ -1,11 +1,11 @@
-# User Guide
+# BacancyCare EHR User Guides
 
+One guide per portal.
 
-One page per role.
-
-
-| Role | Guide |
+| Portal | Guide |
 |---|---|
-| [Role 1] | [role-1.md](role-1.md) |
-| [Role 2] | [role-2.md](role-2.md) |
-| Admin | [admin.md](admin.md) |
+| Patient Portal | [patient.md](patient.md) |
+| Doctor Portal | [doctor.md](doctor.md) |
+| Laboratory Portal | [laboratory.md](laboratory.md) |
+| Pharmacy Portal | [pharmacy.md](pharmacy.md) |
+| Super Admin Panel | [super-admin.md](super-admin.md) |
