@@ -27,5 +27,6 @@ You keep your data, because it runs on your servers.
 ## Is there test data I can use?
 Yes. Synthetic FHIR R4 data is in [healthcare-fhir-samples](https://github.com/bacancy-technology/healthcare-fhir-samples).
 
-## Where are pricing and demos?
-Product page: [bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=faq) · Live demo: [healthsolution.gobacancy.com](https://healthsolution.gobacancy.com/)
+## How much does BacancyCare EHR cost?
+A one-time license costs $10,000 to $40,000, or you can subscribe for $150 to $400 per doctor per month. There's a full refund within 3 months. See [pricing](pricing.md) for details, or [get a written quote](https://bacancycare.com/#form).
+
