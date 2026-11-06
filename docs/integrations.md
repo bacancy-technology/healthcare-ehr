@@ -41,6 +41,3 @@ BacancyCare EHR connects through FHIR R4 (USCDI v3), HL7v2 messaging and REST AP
 | Single clinic | 2–4 weeks |
 | Multi-provider group | 4–8 weeks |
 | Health system | 10–16 weeks (pilot available) |
-
-## For developers
-Synthetic FHIR R4 examples and API calls: [healthcare-fhir-samples](https://github.com/bacancy-technology/healthcare-fhir-samples)
