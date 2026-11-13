@@ -25,7 +25,7 @@ Integration guides, portal guides and compliance details for BacancyCare EHR, a 
 | [User guides](docs/user-guide/README.md) | One guide per portal |
 | [Security and compliance](docs/security-and-compliance.md) | HIPAA, encryption, audit logs, BAA |
 | [Technical FAQ](docs/faq.md) | Integration, data and deployment questions |
-| [Videos](media/videos.md) | Demo videos |
+| [Videos](media/videos.md) | 5 video walkthroughs: onboarding, Patient, Doctor, Laboratory and Pharmacy portals |
 | [Changelog](CHANGELOG.md) | Documentation versions |
 | [Pricing](docs/pricing.md) | License and subscription options, guarantee, support |
 
