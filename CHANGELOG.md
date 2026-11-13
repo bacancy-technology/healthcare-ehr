@@ -1,7 +1,7 @@
 # Changelog
 
 ## 1.1.0 · 12 Nov 2026
-- Added 5 video walkthroughs: platform onboarding, Patient, Doctor, Laboratory and Pharmacy portals
+- Added 5 video walkthroughs: Platform Onboarding, Patient, Doctor, Laboratory and Pharmacy portals
 - Added each video to its portal user guide and to the overview
 
 ## 1.0.0 · 6 Nov 2026
