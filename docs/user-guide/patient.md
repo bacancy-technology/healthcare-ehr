@@ -1,4 +1,8 @@
 # Patient Portal Guide
+▶️ **Video guide (3:27)**
+
+https://github.com/user-attachments/assets/4cad28f1-0875-4de4-954c-41cdc7f8a27d
+
 
 ## What patients can do
 Book visits, check insurance, see costs, join video visits, pay bills and track pharmacy orders.
