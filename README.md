@@ -4,6 +4,7 @@ Integration guides, portal guides and compliance details for BacancyCare EHR, a 
 
 **Product page and demo:** [bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=product-top) · **Live demo:** [healthsolution.gobacancy.com](https://healthsolution.gobacancy.com/)
 
+![BacancyCare EHR Patient Portal dashboard with demo data](media/screenshots/hero.png)
 
 ## At a glance
 | | |
@@ -27,6 +28,17 @@ Integration guides, portal guides and compliance details for BacancyCare EHR, a 
 | [Videos](media/videos.md) | 5 video walkthroughs: onboarding, Patient, Doctor, Laboratory and Pharmacy portals |
 | [Changelog](CHANGELOG.md) | Documentation versions |
 | [Pricing](docs/pricing.md) | License and subscription options, guarantee, support |
+
+## Screenshots
+All screens use demo data.
+
+| Booking a doctor | Doctor consultation queue |
+|---|---|
+| ![Choosing a doctor during booking](media/screenshots/patient-booking.png) | ![Doctor Portal consultation queue](media/screenshots/doctor-consultation.png) |
+
+| Laboratory dashboard | Pharmacy orders |
+|---|---|
+| ![Laboratory Portal dashboard](media/screenshots/lab-portal.png) | ![Pharmacy Portal orders by status](media/screenshots/pharmacy-orders.png) |
 
 
 ## How to cite

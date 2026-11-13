@@ -1,8 +1,10 @@
 # Patient Portal Guide
+
 ▶️ **Video guide (3:27)**
 
 https://github.com/user-attachments/assets/4cad28f1-0875-4de4-954c-41cdc7f8a27d
 
+![Patient Portal dashboard with demo data](../../media/screenshots/hero.png)
 
 ## What patients can do
 Book visits, check insurance, see costs, join video visits, pay bills and track pharmacy orders.
@@ -13,6 +15,8 @@ Book visits, check insurance, see costs, join video visits, pay bills and track 
 3. Pick the visit type: in person, video or phone.
 4. Review the insurance check and the cost estimate.
 5. Pay online, in cash at the clinic, or by insurance.
+
+![Choosing a doctor during booking, with fees and specialties](../../media/screenshots/patient-booking.png)
 
 You can book as a guest. Your account is created during booking.
 

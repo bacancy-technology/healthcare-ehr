@@ -1,8 +1,10 @@
 # Doctor Portal Guide
+
 ▶️ **Video guide (2:41)**
 
 https://github.com/user-attachments/assets/2ebc1eb1-fe59-4acb-bc16-f74fd6c37523
 
+![Doctor Portal consultation queue with demo data](../../media/screenshots/doctor-consultation.png)
 
 ## What doctors can do
 Work across every clinic from one place: schedule, patient queue, consultations, prescriptions, video visits and earnings.
