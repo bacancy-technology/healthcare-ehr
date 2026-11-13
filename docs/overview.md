@@ -36,4 +36,8 @@ The AI layer is model-agnostic, so the language model can be swapped without reb
 ## Who it's for
 Single clinics, multi-provider and multi-location groups, health systems and hospital networks, telemedicine providers, and labs and pharmacies that join as verified partners. The platform can be white-labelled with the client's brand.
 
+▶️ **Watch the platform walkthrough (4:49)**
+
+https://github.com/user-attachments/assets/1447582b-2155-470d-9dbf-c8a09da544f3
+
 Full product details: [bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=overview)
