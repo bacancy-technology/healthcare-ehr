@@ -1,4 +1,8 @@
 # Pharmacy Portal Guide
+▶️ **Video guide (1:51)**
+
+https://github.com/user-attachments/assets/3d8565f7-ff99-480f-ba7a-2df569bf3d99
+
 
 ## Joining the network
 Register with licence verification. The pharmacy goes live after admin approval.
