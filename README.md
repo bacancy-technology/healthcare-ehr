@@ -4,7 +4,6 @@ Integration guides, portal guides and compliance details for BacancyCare EHR, a 
 
 **Product page and demo:** [bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=product-top) · **Live demo:** [healthsolution.gobacancy.com](https://healthsolution.gobacancy.com/)
 
-![BacancyCare EHR doctor dashboard with demo data](media/screenshots/hero.png)
 
 ## At a glance
 | | |
