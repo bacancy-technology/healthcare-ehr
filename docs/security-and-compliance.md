@@ -20,7 +20,7 @@ The platform runs on the customer's own servers or a private cloud account in th
 HIPAA · HITECH · 21st Century Cures Act information-blocking rules · CMS-0057-F (FHIR Da Vinci PAS) · TEFCA QHIN ready · NIST AI RMF · NIST SP 800-66 · California AB 3030 · GDPR / UK GDPR
 
 ## Agreements
-- **BAA:** a signed Business Associate Agreement is provided with every license. [Compliance: confirm "every license" vs "on request"]
+- **BAA:** a signed Business Associate Agreement is available on request.
 - **DPA:** available for UK and Australia.
 
 ## AI governance
