@@ -1,6 +1,6 @@
 # BacancyCare EHR Pricing
 
-**Last updated: 6 Nov 2026.** The official, current prices are on [bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=pricing-top). If they differ, the website is correct.
+**Last updated: 19 Nov 2026.** The official, current prices are on [bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=readme&utm_campaign=ehr&utm_content=pricing-top). If they differ, the website is correct.
 
 ## Two ways to pay
 
